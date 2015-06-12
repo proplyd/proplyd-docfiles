@@ -1,2 +1,2 @@
-# proplyd-docfiles
-doc files for proplyd
+# proplyd-dotfiles
+dotfiles for proplyd
